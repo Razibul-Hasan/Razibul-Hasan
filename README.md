@@ -48,14 +48,13 @@ I'm a WordPress developer from Gazipur, Dhaka, Bangladesh. I build custom plugin
 
 <br/>
 
-### Stats
 
-<p align="center">
+<a href="https://github.com/Razibul-Hasan">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Razibul-Hasan&card_width=820&hide_border=true&background=00000000&stroke=30363d&ring=7b93ff&fire=7b93ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=7b93ff&sideLabels=9198a1&dates=6e7681" />
-    <img alt="contribution streak" src="https://streak-stats.demolab.com?user=Razibul-Hasan&card_width=820&hide_border=true&background=00000000&stroke=d0d7de&ring=3858e9&fire=3858e9&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=3858e9&sideLabels=656d76&dates=8c959f" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/output/github-snake.svg" width="100%" />
   </picture>
-</p>
+</a>
 
 <br/><br/>
 
