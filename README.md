@@ -57,18 +57,6 @@ I'm a WordPress developer from Gazipur, Dhaka, Bangladesh. I build custom plugin
   </picture>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Razibul-Hasan&theme=transparent" alt="github stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Razibul-Hasan&theme=transparent" alt="languages by commit"/>
-</p>
-
-<a href="https://github.com/Razibul-Hasan">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/output/github-snake.svg" width="100%" />
-  </picture>
-</a>
-
 <br/><br/>
 
 <p align="center">
