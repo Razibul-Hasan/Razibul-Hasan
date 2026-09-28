@@ -18,9 +18,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # blue scale matches the accent in assets/build.py
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#3858e9&color_dots=#ebedf0,#c7d0fa,#93a5f4,#6079ee,#3858e9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7b93ff&color_dots=#151b23,#243066,#34469a,#5468d4,#7b93ff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

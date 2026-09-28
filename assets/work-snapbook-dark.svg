@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t" fill="none">
+  <title id="t">SnapBook — booking engine for photography studios</title>
+  <style>.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+  <rect x=".5" y=".5" width="1199" height="359" rx="16" fill="#151b23" stroke="#3d444d"/>
+  <text class="mono" x="48" y="76" font-size="15" fill="#6e7681" letter-spacing="1.5">FEATURED · WORDPRESS PLUGIN</text>
+  <path d="M594 76 L608 62 M598 62 H608 V72" stroke="#6e7681" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="sans" x="46" y="134" font-size="46" fill="#f0f6fc" font-weight="700" letter-spacing="-1">SnapBook</text>
+  <text class="sans" x="48" y="180" font-size="20" fill="#9198a1">Booking engine for photography studios.</text>
+  <text class="sans" x="48" y="208" font-size="20" fill="#9198a1">Packages, add-ons, availability, e-signed</text>
+  <text class="sans" x="48" y="236" font-size="20" fill="#9198a1">contracts and deposits — all on one page.</text>
+  <rect x="48.5" y="264.5" width="55" height="31" rx="15.5" fill="#0d1117" stroke="#3d444d"/>
+  <text class="mono" x="76.0" y="285" font-size="15" fill="#9198a1" text-anchor="middle">PHP</text>
+  <rect x="112.5" y="264.5" width="128" height="31" rx="15.5" fill="#0d1117" stroke="#3d444d"/>
+  <text class="mono" x="176.5" y="285" font-size="15" fill="#9198a1" text-anchor="middle">WooCommerce</text>
+  <rect x="249.5" y="264.5" width="119" height="31" rx="15.5" fill="#0d1117" stroke="#3d444d"/>
+  <text class="mono" x="309.0" y="285" font-size="15" fill="#9198a1" text-anchor="middle">JavaScript</text>
+  <rect x="656.5" y="32.5" width="511" height="295" rx="12" fill="#0d1117" stroke="#3d444d"/>
+  <text class="mono" x="684" y="70" font-size="15"><tspan fill="#7b93ff">[snapbook]</tspan><tspan fill="#6e7681">  one shortcode, the whole flow</tspan></text>
+  <path d="M656 90.5 H1168" stroke="#3d444d"/>
+  <path d="M698 126 V302" stroke="#3d444d" stroke-width="2"/>
+  <circle cx="698" cy="126" r="13" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/>
+  <text class="mono" x="698" y="131" font-size="13" fill="#9198a1" text-anchor="middle">1</text>
+  <text class="sans" x="728" y="132" font-size="18" fill="#f0f6fc" font-weight="600">Package</text>
+  <text class="sans" x="838" y="132" font-size="17" fill="#9198a1">session type, package, add-ons</text>
+  <circle cx="698" cy="170" r="13" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/>
+  <text class="mono" x="698" y="175" font-size="13" fill="#9198a1" text-anchor="middle">2</text>
+  <text class="sans" x="728" y="176" font-size="18" fill="#f0f6fc" font-weight="600">Details</text>
+  <text class="sans" x="838" y="176" font-size="17" fill="#9198a1">grouped checkout fields</text>
+  <circle cx="698" cy="214" r="13" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/>
+  <text class="mono" x="698" y="219" font-size="13" fill="#9198a1" text-anchor="middle">3</text>
+  <text class="sans" x="728" y="220" font-size="18" fill="#f0f6fc" font-weight="600">Contract</text>
+  <text class="sans" x="838" y="220" font-size="17" fill="#9198a1">optional e-signature</text>
+  <circle cx="698" cy="258" r="13" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/>
+  <text class="mono" x="698" y="263" font-size="13" fill="#9198a1" text-anchor="middle">4</text>
+  <text class="sans" x="728" y="264" font-size="18" fill="#f0f6fc" font-weight="600">Payment</text>
+  <text class="sans" x="838" y="264" font-size="17" fill="#9198a1">embedded WooCommerce checkout</text>
+  <circle cx="698" cy="302" r="13" fill="#7b93ff" stroke="#7b93ff" stroke-width="1.5"/>
+  <text class="mono" x="698" y="307" font-size="13" fill="#0d1117" font-weight="700" text-anchor="middle">✓</text>
+  <text class="sans" x="728" y="308" font-size="18" fill="#f0f6fc" font-weight="600">Booked</text>
+  <text class="sans" x="838" y="308" font-size="17" fill="#9198a1">no reloads, no redirects</text>
+</svg>
