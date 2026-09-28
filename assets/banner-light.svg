@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+  <title id="title">Razibul Hasan — WordPress Developer</title>
+  <style>
+    .card{fill:#f6f8fa;stroke:#d0d7de}
+    .fg{fill:#1f2328}
+    .muted{fill:#656d76}
+    .accent{fill:#3858e9}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+    .l1{opacity:.22}.l2{opacity:.45}.l3{opacity:.72}
+    .pulse{animation:pulse 3.6s ease-in-out infinite}
+    .d1{animation-delay:.9s}.d2{animation-delay:1.8s}.d3{animation-delay:2.7s}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+    @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+  </style>
+  <defs>
+    <pattern id="grid" x="753" y="86" width="19" height="19" patternUnits="userSpaceOnUse">
+      <rect width="14" height="14" rx="3" fill="#e4e8ed"/>
+    </pattern>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="753" y1="0" x2="1128" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="300">
+      <rect x="740" y="70" width="400" height="160" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect class="card" x=".5" y=".5" width="1199" height="299" rx="16"/>
+
+  <circle class="accent pulse" cx="77" cy="75" r="5"/>
+  <text class="mono muted" x="92" y="80" font-size="15">open to freelance &amp; remote work</text>
+  <text class="sans fg" x="68" y="154" font-size="64" font-weight="700" letter-spacing="-1.5">Razibul Hasan</text>
+  <text class="sans accent" x="71" y="196" font-size="26" font-weight="500">WordPress Developer</text>
+  <text class="mono muted" x="72" y="232" font-size="15">plugins · themes · storefronts</text>
+
+  <g mask="url(#m)">
+    <rect x="753" y="86" width="375" height="128" fill="url(#grid)"/>
+    <g class="accent">
+      <rect x="829" y="124" width="14" height="14" rx="3" class="l1"/>
+      <rect x="867" y="181" width="14" height="14" rx="3" class="l1"/>
+      <rect x="886" y="105" width="14" height="14" rx="3" class="l1"/>
+      <rect x="886" y="143" width="14" height="14" rx="3" class="l2"/>
+      <rect x="905" y="162" width="14" height="14" rx="3" class="l1"/>
+      <rect x="924" y="86" width="14" height="14" rx="3" class="l1"/>
+      <rect x="924" y="124" width="14" height="14" rx="3" class="l2"/>
+      <rect x="924" y="200" width="14" height="14" rx="3" class="l1"/>
+      <rect x="943" y="143" width="14" height="14" rx="3" class="l3"/>
+      <rect x="943" y="181" width="14" height="14" rx="3" class="l1"/>
+      <rect x="962" y="105" width="14" height="14" rx="3" class="l2"/>
+      <rect x="962" y="162" width="14" height="14" rx="3" class="l2"/>
+      <rect x="981" y="86" width="14" height="14" rx="3" class="l1"/>
+      <rect x="981" y="124" width="14" height="14" rx="3" class="l3"/>
+      <rect x="981" y="200" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1000" y="143" width="14" height="14" rx="3" class="pulse"/>
+      <rect x="1000" y="181" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1019" y="105" width="14" height="14" rx="3" class="l3"/>
+      <rect x="1019" y="162" width="14" height="14" rx="3" class="l3"/>
+      <rect x="1019" y="200" width="14" height="14" rx="3" class="l1"/>
+      <rect x="1038" y="86" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1038" y="124" width="14" height="14" rx="3" class="pulse d2"/>
+      <rect x="1038" y="181" width="14" height="14" rx="3" class="l3"/>
+      <rect x="1057" y="105" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1057" y="143" width="14" height="14" rx="3" class="l3"/>
+      <rect x="1057" y="162" width="14" height="14" rx="3" class="l1"/>
+      <rect x="1057" y="200" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1076" y="86" width="14" height="14" rx="3" class="l3"/>
+      <rect x="1076" y="124" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1076" y="181" width="14" height="14" rx="3" class="pulse d1"/>
+      <rect x="1095" y="105" width="14" height="14" rx="3"/>
+      <rect x="1095" y="143" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1095" y="162" width="14" height="14" rx="3" class="pulse d3"/>
+      <rect x="1095" y="200" width="14" height="14" rx="3" class="l3"/>
+      <rect x="1114" y="86" width="14" height="14" rx="3" class="l2"/>
+      <rect x="1114" y="124" width="14" height="14" rx="3" class="l3"/>
+      <rect x="1114" y="143" width="14" height="14" rx="3" class="l1"/>
+      <rect x="1114" y="181" width="14" height="14" rx="3" class="l2"/>
+    </g>
+  </g>
+</svg>
